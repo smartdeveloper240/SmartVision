@@ -1,0 +1,8 @@
+{
+  "name": "SmartVision Technologies",
+  "description": "Smart Security. Smart Connectivity. Professional corporate web presence for advanced CCTV surveillance, high-speed networking, and smart security infrastructure solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
